@@ -21,6 +21,13 @@
     cursor: pointer;
 }
 
+.section-title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #131313;
+}
+
+/* this is header section */
 header {
     background: rgba(255, 144, 14, 0.10);
     padding: 50px 240px;
@@ -32,11 +39,7 @@ nav {
     align-items: center;
 }
 
-.nav-title {
-    font-size: 2.4rem;
-    font-weight: 700;
-    color: #131313;
-}
+
 
 nav>ul {
     display: flex;
